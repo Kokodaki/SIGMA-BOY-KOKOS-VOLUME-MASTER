@@ -10,6 +10,7 @@ A premium volume control extension for Chrome and Brave. Boost any tab up to 600
 - Reset to 100% instantly
 - Works in fullscreen without any overlay interference
 - Minimal dark UI
+- Works Like the Popular chrome extension but this one lets you fullscreen videos normally without any need to click F11 as well
 
 ## Install (Developer Mode)
 
