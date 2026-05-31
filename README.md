@@ -4,7 +4,7 @@ A premium volume control extension for Chrome and Brave. Boost any tab up to 600
 
 ## Features
 
-- Volume boost up to **600%** per tab
+- Volume boost up to **1000%** per tab
 - Per-tab memory — each tab keeps its own setting
 - Mute toggle with one click
 - Reset to 100% instantly
@@ -36,7 +36,7 @@ The extension hooks into the browser's **Web Audio API** using a `GainNode`. Aud
 
 ## Credits
 
-Big thanks to **[@Kokodaki](https://github.com/Kokodaki)** for the idea and the name.
+Big thanks to **[@Kokodaki](https://github.com/Kokodaki)** for the idea and the name and finding bugs and testing
 
 ---
 
